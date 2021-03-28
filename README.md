@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/faiz-hasan11/DevIn/blob/master/homepage.png)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/faiz-hasan11/DevIn/master/homepage.png?token=AOSBQEMLCRBOZYE3OZYYFNLANGLBO)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
