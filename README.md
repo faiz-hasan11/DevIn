@@ -52,19 +52,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <center>
-<img src="https://raw.githubusercontent.com/faiz-hasan11/DevIn/master/homepage.png?token=AOSBQEMLCRBOZYE3OZYYFNLANGLBO" alt="Logo" width="800" height="500">
+<img src="https://raw.githubusercontent.com/faiz-hasan11/DevIn/master/homepage.png?token=AOSBQEMLCRBOZYE3OZYYFNLANGLBO" alt="Logo" width="1000" height="500">
 </center>
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The budding developers always seem to struggle between academic life and working on skills. Many new developers face the lack of guidance and resources needed to enhance particular skills.They often get confused between which resource to pick and which to ignore so that they can maximise their outcome in the limited time frame. Hence DevIn provides all the useful resources required for any Computer Science Development Field along with the guidance of other fellow deveopers.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* It provides abundance of resources on various topics including frameworks , languages and technologies 
+* For Each Topic , resource include blogs , videos and even books.
+* Authenticated Users can even add their own resources
+* An Anonymous ChatApp has been provided so users can talk and share the ideas on various topics in real time.
+* A Dashboard for Questionnaire has been added where users can ask questions or doubts and other users can answer them. Fellow users who may have encountered similar issues can take help from it. 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
