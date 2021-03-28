@@ -54,7 +54,7 @@
 <center>
 <img src="https://raw.githubusercontent.com/faiz-hasan11/DevIn/master/homepage.png?token=AOSBQEMLCRBOZYE3OZYYFNLANGLBO" alt="Logo" width="1000" height="500">
 </center>
-The budding developers always seem to struggle between academic life and working on skills. Many new developers face the lack of guidance and resources needed to enhance particular skills.They often get confused between which resource to pick and which to ignore so that they can maximise their outcome in the limited time frame. Hence DevIn provides all the useful resources required for any Computer Science Development Field along with the guidance of other fellow deveopers.
+The budding developers always seem to struggle between academic life and working on skills. Many new developers face the lack of guidance and resources needed to enhance particular skills.They often get confused between which resource to pick and which to ignore so that they can maximise their outcome in the limited time frame. Hence DevIn provides all the useful resources required for any Computer Science Development Field along with the guidance of other fellow developers.
 
 Here's why:
 * It provides abundance of resources on various topics including frameworks , languages and technologies 
@@ -66,11 +66,10 @@ Here's why:
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+The website was built with
+* [ReactJs](https://reactjs.org/)
+* [Firebase](https://firebase.google.com/)
+* [MaterialUI](https://material-ui.com/)
 
 
 <!-- GETTING STARTED -->
